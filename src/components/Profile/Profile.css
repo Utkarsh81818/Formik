@@ -1,0 +1,15 @@
+.profile_form_container{
+    height: fit-content;
+    width: 60vw;
+    border: 2px solid;
+    border-radius: 10px;
+    padding: 14px;
+}
+
+.profile_container{
+    display: flex;
+    justify-content: center;
+    height: 92vh;
+    width: 100vw;
+    align-items: center;
+}
